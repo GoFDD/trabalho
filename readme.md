@@ -7,4 +7,4 @@ Telefones (14)999001026
  e-mail; juliogolfredo2022@hotmail.com
 Idade; 21 
  Nacionalidade; Brasileiro 
-Linkedin: www.linkedin.com/in/júlio-golfredo-481450219
+ [Projetim pae](Linkedin: www.linkedin.com/in/júlio-golfredo-481450219)
