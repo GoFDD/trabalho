@@ -16,7 +16,7 @@ Idade; 21
 •	Desenvolvimento e instalação de software
 •	Conhecimento em Pacote Office, Hardware e Internet.  
 
-##FORMAÇÃO ACADÊMICA  
+## FORMAÇÃO ACADÊMICA  
 Ensino Médio
 E.E Prof Theodorico de Oliveira
 Campos Novos Pta, Dezembro 2018
@@ -24,7 +24,7 @@ Técnico em Desenvolvimento de Sistemas – Tecnologia da Informação / conclus
 ETEC Antônio Devisate 
 Marília, Dezembro de 2019
 
-##IDIOMAS  
+## IDIOMAS  
  
 Português: Lingua materna
 Inglês: Intermediário
